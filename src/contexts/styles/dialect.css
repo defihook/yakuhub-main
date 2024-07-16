@@ -1,0 +1,33 @@
+.dt-flex.dt-justify-center.dt-py-3 {
+    display: none;
+}
+
+.dt-text.dt-font-inter.dt-text-xs.dt-font-normal.dt-mb-2.dt-px-2 {
+    display: none;
+}
+
+.dt-opacity-40.dt-font-inter.dt-text-xs.dt-font-normal {
+    display: none;
+}
+
+.dt-bg-\[\#F38AFF\]{background-color: #f38aff}
+
+.dt-bg-\[\#24182F\]{--tw-bg-opacity:1;background-color:rgb(36 24 47/var(--tw-bg-opacity))}
+
+.dt-text-green-600 {
+    display: none;
+}
+
+.dt-text.dt-font-inter.dt-text-xs.dt-font-normal.dt-opacity-60.dt-text-white.dt-text.dt-mt-1.dt-px-2 {
+    display: none;
+}
+
+header > div > div.dt-flex.dt-items-center {
+    font-weight: 500;
+    font-size:1.125rem;
+    line-height:1.75rem;
+}
+
+header.dt-h-full {
+    cursor: pointer;
+}
